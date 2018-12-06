@@ -15,7 +15,4 @@
 % The example below is a low-pass random process with cutting off
 % frequency to be 1, and can be found in page 127 of the book.
 
-
-![alt text](comparison of exact and synthesization.jpg)
-
-[[https://github.com/fangbowa/Harmonic_representation_of_a_random_process/blob/master/comparison_of_exact_and_synthesization.jpg|alt=octocat]]
+![Result comparison](comparison_of_exact_and_synthesization.jpg)
