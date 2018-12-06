@@ -14,3 +14,6 @@
 
 % The example below is a low-pass random process with cutting off
 % frequency to be 1, and can be found in page 127 of the book.
+
+
+![alt text](comparison of exact and synthesization.jpg)
