@@ -9,8 +9,8 @@ power spectra density function.
 
 
 
-Book <<Random vibration theory and practice>> by Paul Wirsching et al. is
-followd. See page 92, 124, 127 of the book for details.
+Book 'Random vibration theory and practice' by Paul Wirsching et al. is
+followed here. See page 92, 124, 127 of the book for details.
 
 The example below is a low-pass random process with cutting off
 frequency to be 1, and can be found in page 127 of the book.
