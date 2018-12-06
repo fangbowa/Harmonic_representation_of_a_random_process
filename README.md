@@ -17,3 +17,5 @@
 
 
 ![alt text](comparison of exact and synthesization.jpg)
+
+[[https://github.com/fangbowa/Harmonic_representation_of_a_random_process/blob/master/comparison%20of%20exact%20and%20synthesization.jpg|alt=octocat]]
